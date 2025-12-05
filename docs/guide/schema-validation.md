@@ -371,4 +371,4 @@ userSchema := schema.NewSchema(...)
 
 - [Error Handling Guide](./error-handling-modern.md)
 - [Context API Guide](./modern-context-api.md)
-- [Examples](../../examples/schema-validation/)
+- [Examples](https://github.com/ginjigo/ginji/tree/main/examples/schema-validation)

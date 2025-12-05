@@ -236,5 +236,5 @@ Server gracefully stopped
 ## See Also
 
 - [Best Practices](/advanced/best-practices#graceful-shutdown) - Production guidelines
-- [Plugin System](/guide/plugins) - Creating plugins with cleanup
+
 - [Examples](https://github.com/ginjigo/ginji/tree/main/examples/graceful-shutdown) - Full example
