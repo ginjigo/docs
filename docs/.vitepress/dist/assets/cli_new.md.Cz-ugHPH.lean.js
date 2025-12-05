@@ -1,0 +1,1 @@
+import{_ as a,c as i,o as e,aj as n}from"./chunks/framework.e3UxQEvm.js";const c=JSON.parse('{"title":"ginji new","description":"","frontmatter":{},"headers":[],"relativePath":"cli/new.md","filePath":"cli/new.md"}'),l={name:"cli/new.md"};function t(p,s,r,h,o,k){return e(),i("div",null,[...s[0]||(s[0]=[n("",36)])])}const g=a(l,[["render",t]]);export{c as __pageData,g as default};
